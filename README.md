@@ -1,6 +1,8 @@
 # YelpCamp
 
-> A Node.js web application project from the Udemy course - [The Web Developer Bootcamp by Colt Steele](https://www.udemy.com/the-web-developer-bootcamp/)
+YelpCamp is a website where users can create and review campgrounds. In order to review or create a campground, you must have an account. This project was part of Colt Steele's web dev course on udemy.
+
+This project was created using Node.js, Express, MongoDB, and Bootstrap. Passport.js was used to handle authentication.
 
 ## Live Demo
 
@@ -101,12 +103,3 @@ Some comments in the source code are course notes and therefore might not seem n
 * [cloudinary](https://cloudinary.com/)
 * [geocoder](https://github.com/wyattdanger/geocoder#geocoder)
 * [connect-flash](https://github.com/jaredhanson/connect-flash#connect-flash)
-
-### Platforms
-
-* [Cloudinary](https://cloudinary.com/)
-* [Heroku](https://www.heroku.com/)
-* [Cloud9](https://aws.amazon.com/cloud9/?origin=c9io)
-## License
-
-#### [MIT](./LICENSE)
